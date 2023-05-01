@@ -1,0 +1,11 @@
+C:\Users\andym\Desktop\Spring2023\Csharp23\DelegatesDemo-Start\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\andym\Desktop\Spring2023\Csharp23\DelegatesDemo-Start\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\andym\Desktop\Spring2023\Csharp23\DelegatesDemo-Start\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\andym\Desktop\Spring2023\Csharp23\DelegatesDemo-Start\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\andym\Desktop\Spring2023\Csharp23\DelegatesDemo-Start\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Users\andym\Desktop\Spring2023\Csharp23\DelegatesDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\andym\Desktop\Spring2023\Csharp23\DelegatesDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\andym\Desktop\Spring2023\Csharp23\DelegatesDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\andym\Desktop\Spring2023\Csharp23\DelegatesDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\andym\Desktop\Spring2023\Csharp23\DelegatesDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\andym\Desktop\Spring2023\Csharp23\DelegatesDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.pdb

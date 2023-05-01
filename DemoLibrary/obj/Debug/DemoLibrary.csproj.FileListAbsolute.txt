@@ -1,0 +1,6 @@
+C:\Users\andym\Desktop\Spring2023\Csharp23\DelegatesDemo-Start\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\andym\Desktop\Spring2023\Csharp23\DelegatesDemo-Start\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\andym\Desktop\Spring2023\Csharp23\DelegatesDemo-Start\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\andym\Desktop\Spring2023\Csharp23\DelegatesDemo-Start\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\andym\Desktop\Spring2023\Csharp23\DelegatesDemo-Start\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\andym\Desktop\Spring2023\Csharp23\DelegatesDemo-Start\DemoLibrary\obj\Debug\DemoLibrary.pdb
